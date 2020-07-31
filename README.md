@@ -6,4 +6,5 @@
 4. 빙도 줄이 5개가 먼저 되면 승리
 
 - Easy 모드일 경우
+
 ![image](https://user-images.githubusercontent.com/68934135/89003431-b8c98580-d33a-11ea-8550-7da9fae41dce.png)
