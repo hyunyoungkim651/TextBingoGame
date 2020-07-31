@@ -8,3 +8,8 @@
 - Easy 모드일 경우
 
 ![image](https://user-images.githubusercontent.com/68934135/89003431-b8c98580-d33a-11ea-8550-7da9fae41dce.png)
+
+- Hard 모드일 경우
+
+![image](https://user-images.githubusercontent.com/68934135/89003638-41e0bc80-d33b-11ea-8746-987de09b9783.png)
+
